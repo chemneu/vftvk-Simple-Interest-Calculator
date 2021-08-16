@@ -1,5 +1,4 @@
 body {
-    position: relative;
     background-color:black; 
     font-family:arial; 
     color:white;
@@ -11,9 +10,7 @@ h1{
     font-size: larger;}
 
 .maindiv{
-    position: absolute;
-    top: 50%;
-    left: 50%;
+    margin: 0 auto;
     background-color: white;
     color: black;
     width: 300px;
