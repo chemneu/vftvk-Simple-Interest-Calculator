@@ -24,6 +24,9 @@ h1{
 .inputdiv{
     padding-top: 0.5em;
 }
+.slider{
+    margin-bottom: -0.3em;
+}
 footer{
     padding-top: 1em;
     font-size: small;
